@@ -1,2 +1,2 @@
 # 50Project-in-50-day
-  - firstDay - [Expending Card](https://cute-kringle-533f9b.netlify.app/first/index.html)
+  - firstDay - [Expending Card](https://50project.netlify.app/first/index.html)
