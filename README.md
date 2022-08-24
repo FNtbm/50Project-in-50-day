@@ -2,5 +2,5 @@
 
 - The first Day - [Expending Card](https://50project.netlify.app/01-first/index.html)
 - The second Day - [Progress Steps](https://50project.netlify.app/02-second/index.html)
-- The third Day - [Progress Steps](https://50project.netlify.app/03-third/index.html)
-- The forth Day - [Progress Steps](https://50project.netlify.app/04-foure/index.html)
+- The third Day - [Amazing Article](https://50project.netlify.app/03-third/index.html)
+- The forth Day - [Hidden Search Widget](https://50project.netlify.app/04-foure/index.html)
