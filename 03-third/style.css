@@ -39,15 +39,8 @@
   outline: none;
 }
 .circle button:active {
-  font-size: 35px;
+  color: #555;
 }
-@media screen and (max-width: 1000px) {
-  .scroll {
-    top: -130px;
-    left: -130px;
-  }
-}
-
 body {
   transform: translateX(200px);
 }
@@ -86,4 +79,11 @@ img {
 }
 p {
   margin-top: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+  .scroll {
+    top: -130px;
+    left: -130px;
+  }
 }
