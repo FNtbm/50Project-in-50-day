@@ -1,10 +1,11 @@
 let boxs = document.documentElement.querySelectorAll(".content");
 
-window.addEventListener("scroll", toogle(scrollShow));
+window.addEventListener("scroll", throttle(scrollShow));
 window.addEventListener("load", () => {
   scrollShow();
 });
-function toogle(fn) {
+
+function throttle(fn) {
   let run = false;
   return function () {
     if (run) return;
@@ -14,6 +15,7 @@ function toogle(fn) {
     }, 200);
   };
 }
+
 function scrollShow() {
   let heigth = window.innerHeight - boxs[0].offsetHeight;
   boxs.forEach((box) => {
